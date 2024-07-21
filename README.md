@@ -1,4 +1,4 @@
-# Go Web Crawler
+# Crawler
 
 ## Overview
 
